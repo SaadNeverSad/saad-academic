@@ -42,7 +42,7 @@ experience:
       
   - title: Full-stack Web Developer
     company: PRO DEV SERVICES
-    company_url: ''
+    company_url: 'https://www.prodevservices.fr/'
     company_logo: prodev
     location: Paris, France
     date_start: '2020-06-01'
