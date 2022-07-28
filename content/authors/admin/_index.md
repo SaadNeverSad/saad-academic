@@ -50,7 +50,7 @@ social:
     link: https://github.com/SaadNeverSad
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/csaadac/
+    link: https://www.linkedin.com/in/saadait/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
