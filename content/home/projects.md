@@ -35,7 +35,7 @@ content:
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
-
+  {{< video library="true" src="snakeMalin.mp4" controls="yes" >}}
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
