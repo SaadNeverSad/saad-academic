@@ -32,5 +32,5 @@ slides: example
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. 
 
-{{< video library="true" src="snakeMalin.mp4" controls="yes" >}}
+
 
