@@ -27,10 +27,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
+    - name: Web Development
       tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: AI
+      tag: ai
+    - name: Data science
+      tag: ai
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -46,4 +48,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-{{< video library="true" src="snakeMalin.mp4" controls="yes" >}}
