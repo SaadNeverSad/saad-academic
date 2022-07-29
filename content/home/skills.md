@@ -34,7 +34,7 @@ feature:
     name: Statistics
   - description: 80%
     icon: brain-circuit
-    icon_pack: fas 
+    icon_pack: far
     name: Machine Learning
   - description: 90%
     icon: circle-c
@@ -42,7 +42,7 @@ feature:
     name: C/C++
   - description: 90%
     icon: google
-    icon_pack: fab
+    icon_pack: ai
     name: Googling
   - icon: ":monocle_face:"
     icon_pack: "emoji"
