@@ -33,9 +33,23 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 80%
-    icon: microchip-ai
-    icon_pack: fas
+    icon: brain-circuit
+    icon_pack: fas 
     name: Machine Learning
+  - description: 90%
+    icon: circle-c
+    icon_pack: fas
+    name: C/C++
+  - description: 90%
+    icon: google
+    icon_pack: fab
+    name: Googling
+  - icon: ":monocle_face:"
+    icon_pack: "emoji"
+    name: "Curiosity"
+    description: "100%"
+  
+    
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
