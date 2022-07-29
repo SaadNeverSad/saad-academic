@@ -34,7 +34,7 @@ feature:
     name: Statistics
   - description: 80%
     icon: microchip-ai
-    icon_pack: fab
+    icon_pack: fas
     name: Machine Learning
   
 # Uncomment to use emoji icons.
