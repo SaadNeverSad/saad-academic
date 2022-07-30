@@ -14,7 +14,7 @@ links:
     icon_pack: fab
     name: source
     url: https://gitlab.insa-rennes.fr/Saad.Ait-Chikh/eclast2021
-url_code: ''
+url_code: 'https://gitlab.insa-rennes.fr/Saad.Ait-Chikh/eclast2021'
 url_pdf: ''
 url_slides: ''
 url_video: ''
