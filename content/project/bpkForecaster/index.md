@@ -1,6 +1,6 @@
 ---
 title: TSForecaster 🚀
-summary: A interactive tool for time series forecasting.
+summary: An interactive tool for time series forecasting.
 tags:
   - ds
 date: '2022-07-27T00:00:00Z'

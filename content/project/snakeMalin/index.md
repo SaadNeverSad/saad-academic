@@ -1,6 +1,6 @@
 ---
 title: SnakeMalin 🐍
-summary: Self playing Snake game using A* algorithm to search food in the workspace by avoiding obstrucles.
+summary: Self playing Snake game using A* algorithm.
 tags:
   - ai
 date: '2022-04-27'
