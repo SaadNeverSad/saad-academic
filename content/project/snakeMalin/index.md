@@ -1,5 +1,5 @@
 ---
-title: SnakeMalin
+title: SnakeMalin 🐍
 summary: Self playing Snake game using A* algorithm to search food in the workspace by avoiding obstrucles.
 tags:
   - ai

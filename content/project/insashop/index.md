@@ -1,22 +1,19 @@
 ---
-title: Artifial Intelligence
-summary: An example of using the in-built project page.
+title: INSA Shop 🛒
+summary: Online store of my school.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - web
+date: '2019-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: source
+    url: https://github.com/SaadNeverSad/cityBuilderDeluxe
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,11 +24,9 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
 ---
+I developped an e-commerce website (Admin and client sides) using HTML, CSS, Bootstrap? JavaScript and PHP.It's an online store providing my school community with a wide selection of items bearing the INSA Rennes logo. Watch the video below and enjoy the shopping :
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. 
-
-
+{{< youtube Nskq5SbED6U >}}
 

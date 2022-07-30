@@ -1,5 +1,5 @@
 ---
-title: CityBuilder
+title: CityBuilder 🌲
 summary: 
 tags:
   - web
@@ -27,7 +27,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 
 ---
-🌲 This is a city building simulation game : the frontend of the game is written in TypeScript with the Angular framework, the backend is written in Java with the Jersey framework. Watch the video below and enjoy the game :
+This is a city building simulation game : the frontend of the game is written in TypeScript with the Angular framework, the backend is written in Java with the Jersey framework. Watch the video below and enjoy the game :
 
 {{< youtube zgt-lUHFsXs >}}
 
