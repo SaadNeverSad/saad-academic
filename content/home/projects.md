@@ -28,11 +28,11 @@ content:
     - name: All
       tag: '*'
     - name: Web Development
-      tag: Deep Learning
+      tag: web
     - name: AI
       tag: ai
     - name: Data science
-      tag: ai
+      tag: ds
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
