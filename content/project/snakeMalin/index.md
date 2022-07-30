@@ -31,7 +31,7 @@ url_video: ''
 ---
 This is a self playing Snake game using A* algorithm , watch the video below and enjoy the computer playing itself
 
-{{< youtube kjVaJ_x0lzU >}}
+{{< youtube taVOEMFuwUA >}}
 
 To make the snake autonomous, we use the A* algorithm, the principle is to use a heuristic value (Manhattan distance between our head and the food), thus, our algorithm does not only take into account the arrival point, but also the set of possibilities already searched, using the distance between the departure and arrival points as a heuristic. We thus compute the set of possible paths and return the best (shortest) one. 
 To increase the difficulty, we have added the presence of walls, which are randomly generated at the beginning of the game, and which are intended to prevent our snake to make only diagonals or straight lines to reach the food, as it could do if there were no wall.
