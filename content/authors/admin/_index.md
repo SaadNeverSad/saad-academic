@@ -63,7 +63,7 @@ email: 'aitchikhsaad3@gmail.com'
 highlight_name: true
 ---
 
-Hi I am Saad, a computer science student at the {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}National Institute of Applied Sciences{{< /staticref >}} (INSA Rennes, France). I am currently pursuing a double degree in Data science at Åbo Akademi University (Turku, Finlande). 
+👋 Hi I am Saad, a computer science student 💻 at the {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}National Institute of Applied Sciences{{< /staticref >}} (INSA Rennes, France). I am currently pursuing a double degree in Data science at {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Turku, Finlande). 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
