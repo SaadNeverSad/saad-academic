@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< video library="true" src="snakeMalin.mp4" controls="yes" >}}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. 
 
