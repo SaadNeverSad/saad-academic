@@ -1,5 +1,5 @@
 ---
-title: ECLAST
+title: ECLAST 🗝️
 summary: Explanation of CLAssification for Time Series.
 tags:
   - ds
