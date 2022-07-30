@@ -37,8 +37,8 @@ feature:
     icon_pack: far
     name: Machine Learning
   - description: 90%
-    icon: circle-c
-    icon_pack: fas
+    icon: fa-c
+    icon_pack: far
     name: C/C++
   - description: 90%
     icon: google
