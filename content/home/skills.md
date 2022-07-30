@@ -33,21 +33,15 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 80%
-    icon: brain-circuit
-    icon_pack: far
-    name: Machine Learning
-  - description: 90%
-    icon: fa-c
-    icon_pack: far
+    icon: git
+    icon_pack: fab
+    name: Git
+  - description: 70%
+    icon: cuttlefish
+    icon_pack: fab
     name: C/C++
-  - description: 90%
-    icon: google
-    icon_pack: ai
-    name: Googling
-  - icon: ":monocle_face:"
-    icon_pack: "emoji"
-    name: "Curiosity"
-    description: "100%"
+
+
   
     
   
