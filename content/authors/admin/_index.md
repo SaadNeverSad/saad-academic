@@ -63,7 +63,7 @@ email: 'aitchikhsaad3@gmail.com'
 highlight_name: true
 ---
 
-Hi I am Saad is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi I am Saad, a computer science student at the National Institute of Applied Sciences (INSA Rennes, France). I am currently pursuing a double degree in Data science at Åbo Akademi University (Turku, Finlande). 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
