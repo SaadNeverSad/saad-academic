@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is done by Saad AIT CHIKH'
+    notice: '© {year} by Saad AIT CHIKH. All Rights Reserved.'
     license:
       enable: true
       allow_derivatives: false
