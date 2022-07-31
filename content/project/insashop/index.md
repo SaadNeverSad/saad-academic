@@ -26,7 +26,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 
 ---
-I developped an e-commerce website (Admin and client sides) using HTML, CSS, Bootstrap? JavaScript and PHP.It's an online store providing my school community with a wide selection of items bearing the INSA Rennes logo. Watch the video below and enjoy the shopping :
+I developped an e-commerce website (Admin and client sides) using HTML, CSS, Bootstrap, JavaScript and PHP.It's an online store providing my school community with a wide selection of items bearing the INSA Rennes logo. Watch the video below and enjoy the shopping :
 
 {{< youtube Nskq5SbED6U >}}
 
