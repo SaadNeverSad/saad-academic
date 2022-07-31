@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Welcome to my Portfolio 👐'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is done by Saad AIT CHIKH'
     license:
       enable: true
       allow_derivatives: false
