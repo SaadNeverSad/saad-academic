@@ -30,7 +30,7 @@ education:
     - course: Engineering degree in Computer science
       institution: INSA Rennes
       year: 2023
-    - course: Master Degree in Data science
+    - course: Master's Degree in Data science
       institution: Åbo Akademi University
       year: 2023
 
@@ -63,7 +63,7 @@ email: 'aitchikhsaad3@gmail.com'
 highlight_name: true
 ---
 
-👋 Hi I am Saad, a computer science student 💻 at the {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}National Institute of Applied Sciences{{< /staticref >}} (INSA Rennes, France).I am currently pursuing a double degree in Data science at {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Turku, Finlande).I am passionate about new technologies 💡 .
+👋 Hi I am Saad, a computer science student 💻 at the {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}National Institute of Applied Sciences{{< /staticref >}} (INSA Rennes, France).I am currently pursuing a double degree in Data science at {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Turku, Finland).I am passionate about new technologies 💡 .
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
