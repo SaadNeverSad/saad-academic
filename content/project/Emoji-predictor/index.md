@@ -53,10 +53,6 @@ For classification, we used an LSTM as it is the most suited for handling textua
 ![Confusion matrix](confusion_matrix.png)
 
 
-{{< youtube taVOEMFuwUA >}}
-
-
-
 
 
 
