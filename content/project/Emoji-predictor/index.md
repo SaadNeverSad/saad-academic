@@ -1,5 +1,5 @@
 ---
-title: Emoji-Predictor 🐍
+title: Emoji-Predictor 😲
 summary: School project using machine learning to guess the emoji used in a tweet based on its content..
 tags:
   - ds
