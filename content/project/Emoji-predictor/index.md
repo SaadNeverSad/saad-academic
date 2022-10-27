@@ -1,6 +1,6 @@
 ---
 title: Emoji-Predictor 😲
-summary: School project using machine learning to guess the emoji used in a tweet based on its content..
+summary: Project using machine learning to guess the emoji used in a tweet based on its content.
 tags:
   - ds
 date: '2022-01-27'
@@ -29,7 +29,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 
 ---
-School project using machine learning to guess the emoji used in a tweet based on its content.
+Project using machine learning to guess the emoji used in a tweet based on its content.
 
 ## Model
 
