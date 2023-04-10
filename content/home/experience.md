@@ -29,8 +29,8 @@ experience:
     location: Paris, France
     date_start: '2023-02-02'
     date_end: 
-    description: FinOps - Monitoring and Controlling GCP costs. 	
-	    Development of an API for alerting GCP users of high costs and dashboard for visualizing GCP cost forecasts and trends
+    description: FinOps - Monitoring and Controlling GCP costs.Development of an API for alerting GCP users of high costs and dashboard for visualizing GCP cost forecasts and trends.
+
   - title: Data Scientist
     company: Broadpeak
     company_url: 'https://broadpeak.tv/'
