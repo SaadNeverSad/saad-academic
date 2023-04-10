@@ -28,7 +28,7 @@ experience:
     company_logo: neoxia
     location: Paris, France
     date_start: '2023-02-02'
-    date_end: '2022-07-01'
+    date_end: '2023-07-01'
     description: FinOps - Monitoring and Controlling GCP costs	
 	    - Development of an API for alerting GCP users of high costs 
 	    - Dashboard for visualizing GCP cost forecasts and trends
