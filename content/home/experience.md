@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist and Engineer
-      company: NEOXIA
-      company_url: 'https://neoxia.com/'
-      company_logo: neoxia
-      location: Paris, France
-      date_start: '2023-02-02'
-      date_end: 
-      description: FinOps - Monitoring and Controlling GCP costs.Development of an API for alerting GCP users of high costs and dashboard for visualizing GCP cost forecasts and trends.
+    company: NEOXIA
+    company_url: 'https://neoxia.com/'
+    company_logo: neoxia
+    location: Paris, France
+    date_start: '2023-02-02'
+    date_end: 
+    description: FinOps - Monitoring and Controlling GCP costs.Development of an API for alerting GCP users of high costs and dashboard for visualizing GCP cost forecasts and trends.
 
   - title: Data Scientist
     company: Broadpeak
