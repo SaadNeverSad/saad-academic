@@ -30,7 +30,7 @@ content:
   address:
     #street: 20 Av des Buttes de Coesmes
     city: Paris
-    #postcode: '35700'
+    postcode: '75000'
     country: France
     country_code: FR
 
