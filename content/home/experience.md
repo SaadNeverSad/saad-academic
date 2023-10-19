@@ -49,15 +49,6 @@ experience:
     date_end: '2022-08-31'
     description: Implementation of an anomaly detection tool using machine learning algorithms.
       
-  - title: Full-stack Web Developer
-    company: PRO DEV SERVICES
-    company_url: 'https://www.prodevservices.fr/'
-    company_logo: prodev
-    location: Paris, France
-    date_start: '2020-06-01'
-    date_end: '2020-08-01'
-    description: Development of an e-commerce website.
-      
   - title: Volunteer Tutor
     company: INSA Rennes
     company_url: 'https://www.insa-rennes.fr/'
