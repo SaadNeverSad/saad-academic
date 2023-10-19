@@ -63,11 +63,7 @@ email: 'aitchikhsaad3@gmail.com'
 highlight_name: true
 ---
 
-
-👋 Hi I am Saad, a computer science student 💻 at the {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}National Institute of Applied Sciences{{< /staticref >}} (INSA Rennes, France).I am currently pursuing a double degree in Data science at {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Turku, Finland).I am {{< staticref "https://www.credential.net/5c8ad6d6-f707-4781-a2cd-753716d1ea34?key=45c2d229551fab0aa53450f163447268e5f691fe9fd88a8e6c10bb4526a46f16" "newtab" >}}certified{{< /staticref >}} as GCP Professional Data Engineer. Seeking full-time position as a Data scientist & Engineer 💡.
-
-
-
+👋 Hi I am Saad, a Data scientist & engineer consultant at {{< staticref "https://neoxia.com/fr/activities" "newtab" >}}NEOXIA{{< /staticref >}}. Freshly double-graduated from {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}INSA Rennes{{< /staticref >}} (France) and Abo {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Finland), I have oriented my education towards the fields of computer science and artificial intelligence. My professional experiences, projects, and personal internships have equipped me with strong skills in both Data Science and Data Engineering practices.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
