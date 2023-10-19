@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Google
-    organization_url: ''
-    title: Neural Networks and Deep Learning
-    url: ''
   - certificate_url: https://www.credential.net/5c8ad6d6-f707-4781-a2cd-753716d1ea34?key=45c2d229551fab0aa53450f163447268e5f691fe9fd88a8e6c10bb4526a46f16
     date_end: '2025-03-25'
     date_start: '2023-03-25'
