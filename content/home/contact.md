@@ -28,10 +28,10 @@ content:
   email: aitchikhsaad3@gmail.com
   phone: +33(0)753932345
   address:
-    street: 20 Av des Buttes de Coesmes
-    city: Rennes
-    postcode: '35700'
-    country: French
+    #street: 20 Av des Buttes de Coesmes
+    city: Paris
+    #postcode: '35700'
+    country: France
     country_code: FR
 
 design:
