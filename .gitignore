@@ -10,3 +10,6 @@ go.sum
 .hugo_build.lock
 
 talks.md
+publications.md
+featured.md
+demo.md
