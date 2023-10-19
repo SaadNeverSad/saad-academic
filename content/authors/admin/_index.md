@@ -62,8 +62,6 @@ email: 'aitchikhsaad3@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-👋 Hi I am Saad, a Data scientist & engineer consultant at {{< staticref "https://neoxia.com/fr/activities" "newtab" >}}NEOXIA{{< /staticref >}}. Freshly double-graduated from {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}INSA Rennes{{< /staticref >}} (France) and Abo {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}} (Finland), I have oriented my education towards the fields of computer science and artificial intelligence. My professional experiences, projects, and personal internships have equipped me with strong skills in both Data Science and Data Engineering practices.
-
+👋 I am Saad, a DataWarrior and consultant at {{< staticref "https://neoxia.com/fr/activities" "newtab" >}}NEOXIA{{< /staticref >}}. Hailing from the intersection of France's {{< staticref "https://www.insa-rennes.fr/" "newtab" >}}INSA Rennes{{< /staticref >}} and Finland'sv{{< staticref "https://www.insa-rennes.fr/" "newtab" >}}Åbo Akademi University{{< /staticref >}}, I've charted my educational journey through the realms of computer science and artificial intelligence. My path has been forged by a blend of professional experiences, challenging projects, and personal internships, crafting me into a formidable practitioner in both Data Science and Data Engineering. Ready to conquer data-driven battles and unlock the secrets of information realms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
