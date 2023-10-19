@@ -28,7 +28,7 @@ item:
     date_start: '2021-01-25'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
+    organization_url: ''
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: https://www.credential.net/5c8ad6d6-f707-4781-a2cd-753716d1ea34?key=45c2d229551fab0aa53450f163447268e5f691fe9fd88a8e6c10bb4526a46f16
