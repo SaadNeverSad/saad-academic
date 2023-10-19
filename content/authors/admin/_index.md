@@ -6,7 +6,7 @@ title: Saad AIT CHIKH
 superuser: true
 
 # Role/position/tagline
-role: Computer Science student
+role: Data scientist & engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
