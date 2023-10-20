@@ -32,8 +32,10 @@ authors:
   - admin
 
 tags:
-  - Version control
+  - Academic
 
+categories:
+  - Demo
 ---
 
 # Global `.gitignore` for all
