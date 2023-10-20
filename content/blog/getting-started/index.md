@@ -23,31 +23,26 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'dcscs'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
-  - Academic
-  - 开源
+  - Version control
 
 categories:
-  - Demo
-  - 教程
+  - Tips
 ---
-
-# Global `.gitignore` for all
 
 According to the Git documentation, Git uses various sources to find patterns for files to ignore, including the familiar project-specific `.gitignore` file and patterns specified in the `core.excludesFile` configuration variable.
 
-## Setting Up the Global `.gitignore`
+## Setting Up the Global .gitignore
 
-Let's establish the global `.gitignore` file. Git sources ignore patterns from various places, including project-specific `.gitignore` files and patterns from the `core.excludesFile` configuration variable.
+Let's establish the global .gitignore file. Git sources ignore patterns from various places, including project-specific `.gitignore` files and patterns from the `core.excludesFile` configuration variable.
 
 > 📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
 
