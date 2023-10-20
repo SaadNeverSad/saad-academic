@@ -40,13 +40,13 @@ categories:
 
 According to the Git documentation, Git uses various sources to find patterns for files to ignore, including the familiar project-specific `.gitignore` file and patterns specified in the `core.excludesFile` configuration variable.
 
-## Setting Up the Global .gitignore
+# Setting Up the Global .gitignore
 
 Let's establish the global .gitignore file. Git sources ignore patterns from various places, including project-specific `.gitignore` files and patterns from the `core.excludesFile` configuration variable.
 
 > 📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
 
-### Step 1: Create the Global `.gitignore`
+## Step 1: Create the Global `.gitignore`
 
 Start by creating a global `.gitignore` file in your home directory with the name `.gitignore_global`:
 
@@ -54,7 +54,7 @@ Start by creating a global `.gitignore` file in your home directory with the nam
 touch ~/.gitignore_global
 ```
 
-### Step 2: Adding Patterns to Ignore
+## Step 2: Adding Patterns to Ignore
 Next, add patterns to this global `.gitignore` file. For instance, to ignore all log files, use the following command:
 
 ```shell
@@ -62,15 +62,16 @@ echo "*.log" >> ~/.gitignore_global
 ```
 You can include as many patterns as you need.
 
-### Step 3: Configuring Git
+## Step 3: Configuring Git
+
 To make Git use your global .gitignore, you need to set the core.excludesFile configuration variable. Run the following command:
 
-```shell
+```python
 git config --global core.excludesfile ~/.gitignore_global
 ```
 And there you have it! You now have a global .gitignore that Git will use across all your projects.
 
 
-### Bonus Tip: Pre-made global `.gitignore`
+## Bonus Tip: Pre-made global `.gitignore`
 You can find pre-made global `.gitignore` files for various programming languages and tools at [gitignore.io](https://www.toptal.com/developers/gitignore).
 
