@@ -1,9 +1,9 @@
 ---
 title: Global `.gitignore` for all
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: Tired of creating a `.gitignore` file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A global .gitignore file that works across all your projects
 
 # Link this post with a project
 projects: []
