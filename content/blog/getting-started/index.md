@@ -69,6 +69,6 @@ git config --global core.excludesfile ~/.gitignore_global
 And there you have it! You now have a global .gitignore that Git will use across all your projects.
 
 
-## Bonus Tip: Pre-made global *.gitignore*
+## Bonus ✨ : Pre-made global *.gitignore*
 You can find pre-made global `.gitignore` files for various programming languages and tools at [gitignore.io](https://www.toptal.com/developers/gitignore).
 
