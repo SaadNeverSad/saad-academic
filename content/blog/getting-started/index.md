@@ -38,7 +38,7 @@ categories:
   - Tips
 ---
 
-According to the Git documentation, Git uses various sources to find patterns for files to ignore, including the familiar project-specific *.gitignore* file and patterns specified in the *core.excludesFile* configuration variable.
+According to the [Git documentation](https://git-scm.com/docs/gitignore#_configuration), Git uses various sources to find patterns for files to ignore, including the familiar project-specific *.gitignore* file and patterns specified in the *core.excludesFile* configuration variable.
 
 > 📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
 > ![Example](git.png)
