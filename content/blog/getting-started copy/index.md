@@ -1,18 +1,18 @@
 ---
 title: Global `.gitignore` for all
-subtitle: Tired of creating a `.gitignore` file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
+subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
-summary: A global .gitignore file that works across all your projects
+summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-10-30T00:00:00Z'
+date: '2020-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2023-10-30T00:00:00Z'
+lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'dcscs'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   placement: 2
   preview_only: false
