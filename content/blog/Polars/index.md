@@ -1,5 +1,5 @@
 ---
-title: \[Python\] Polars outperforms Pandas
+title: (Python) Polars outperforms Pandas
 subtitle: Dealing with big datasets efficiently means you need tools that can do calculations quickly and make operations work better. That's where Polars steps in. Polars is a strong open-source tool made for doing data tasks really fast and well in Python.
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: Dealing with big datasets efficiently means you need tools that can do 
 projects: []
 
 # Date published
-date: '2023-10-19T00:00:00Z'
+date: '2023-10-29T00:00:00Z'
 
 # Date updated
-lastmod: '2023-10-19T00:00:00Z'
+lastmod: '2023-10-29T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -32,7 +32,7 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - Python
 
 categories:
   - Tips
