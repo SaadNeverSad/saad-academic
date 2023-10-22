@@ -1,9 +1,9 @@
 ---
 title: [Git] Global `.gitignore` for all
-subtitle: Tired of creating a \`.gitignore\` file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
+subtitle: Tired of creating a .gitignore file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
 
 # Summary for listings and search engines
-summary: Tired of creating a \`.gitignore\` file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
+summary: Tired of creating a .gitignore file for each project? Discover a more efficient approach; a global .gitignore file that works across all your projects!
 
 # Link this post with a project
 projects: []
