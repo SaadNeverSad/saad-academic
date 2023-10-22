@@ -9,10 +9,10 @@ summary: Dealing with big datasets efficiently means you need tools that can do 
 projects: []
 
 # Date published
-date: '2023-10-25T00:00:00Z'
+date: '2023-10-19T00:00:00Z'
 
 # Date updated
-lastmod: '2023-10-25T00:00:00Z'
+lastmod: '2023-10-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
