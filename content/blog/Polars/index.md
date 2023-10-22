@@ -46,7 +46,7 @@ Now, there's a new kid on the block called Polars. It's faster than Pandas. *Pol
 
 *Polars*, on the other hand, is excellent at handling large amounts of data quickly. It spreads the work across many parts of your computer, so it's like having a whole team working together. This makes your data tasks way faster.
 
-Want to see the proof?  [Check out](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/?utm_content=cmp-true) this speed test by Yuki. The results are right there in the picture below! 😊
+Want to see the proof?  [Check out](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/?utm_content=cmp-true) this speed test. The results are right there in the picture below! 😊
 
 ![Pandas vs Polars](benchmark.png)
 
