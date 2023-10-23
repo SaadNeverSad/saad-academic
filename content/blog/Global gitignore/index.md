@@ -40,8 +40,8 @@ categories:
 
 According to the [Git documentation](https://git-scm.com/docs/gitignore#_configuration), Git uses various sources to find patterns for files to ignore, including the familiar project-specific *.gitignore* file and patterns specified in the *core.excludesFile* configuration variable.
 
-> 📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
-> ![Example](git.png)
+📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
+![Example](git.png)
 
 ## Step 1: Create the Global *.gitignore*
 
@@ -69,6 +69,6 @@ git config --global core.excludesfile ~/.gitignore_global
 And there you have it! You now have a global .gitignore that Git will use across all your projects.
 
 
-## Bonus ✨ : Pre-made global *.gitignore*
-You can find pre-made global `.gitignore` files for various programming languages and tools at [gitignore.io](https://www.toptal.com/developers/gitignore).
+> ## Bonus ✨ : Pre-made global *.gitignore*
+> You can find pre-made global `.gitignore` files for various programming languages and tools at [gitignore.io](https://www.toptal.com/developers/gitignore).
 
