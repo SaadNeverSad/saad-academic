@@ -42,6 +42,7 @@ According to the [Git documentation](https://git-scm.com/docs/gitignore#_configu
 
 📝 Note that the local `.gitingore` file will always be more prioritized than the global one. (i.e. if a file is ignored in the global .gitignore file, but explicitly tracked in the local .gitignore file, it will be tracked, and vice versa)
 ![Example](git.png)
+*In this example, the file `specific.txt` is ignored globally but explicitly tracked locally, so it will be tracked.*
 
 ## Step 1: Create the Global *.gitignore*
 
