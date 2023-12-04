@@ -48,6 +48,7 @@ Now, there's a new kid on the block called Polars. It's faster than Pandas. *Pol
 
 Want to see the proof?  [Check out](https://stuffbyyuki.com/pandas-vs-polars-speed-comparison/?utm_content=cmp-true) this speed test. The results are right there in the picture below! 😊
 
+This test is performed using a csv file containing 10 million rows with 14 columns, which is about 1.2GB.
 ![Pandas vs Polars](benchmark.png)
 
 💡 Impressed by the speed and performance results, I'm sure you're eager to start using Polars over Pandas in the future. Let's get you started by showing you how to install it and then explore some common data manipulation functions with Polars.
