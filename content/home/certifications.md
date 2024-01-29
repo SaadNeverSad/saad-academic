@@ -43,7 +43,7 @@ item:
     date_end: '2025-12-19'
     date_start: '2023-12-19'
     description: ''
-    organization: Hashicorp
+    organization: Terraform
     organization_url: https://www.terraform.io/
     title: Terraform Associate
     url: https://www.credly.com/badges/eb8936bf-e55b-4517-ba6b-5eda668fb473/linked_in_profile
