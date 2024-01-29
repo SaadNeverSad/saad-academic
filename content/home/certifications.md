@@ -39,6 +39,22 @@ item:
     organization_url: https://aws.amazon.com
     title: AWS Data Analytics Speciality
     url: https://aws.amazon.com/certification/certified-data-analytics-specialty/
+  - certificate_url: https://www.credly.com/badges/eb8936bf-e55b-4517-ba6b-5eda668fb473/linked_in_profile
+    date_end: '2025-12-19'
+    date_start: '2023-12-19'
+    description: ''
+    organization: Hashicorp
+    organization_url: https://www.terraform.io/
+    title: Terraform Associate
+    url: https://www.credly.com/badges/eb8936bf-e55b-4517-ba6b-5eda668fb473/linked_in_profile
+  - certificate_url: https://verify.skilljar.com/c/sy9u2b67k893
+    date_end: ''
+    date_start: '2023-12-27'
+    description: ''
+    organization: Dataiku
+    organization_url: https://www.terraform.io/
+    title: Dataiku MLOps Practitioner
+    url: https://verify.skilljar.com/c/sy9u2b67k893
 
 design:
   columns: '2'

@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Data Scientist and Engineer
-    company: NEOXIA
+    company: NEOXIA (A Deloitte business)
     company_url: 'https://neoxia.com/'
     company_logo: neoxia
     location: Paris, France
