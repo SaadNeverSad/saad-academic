@@ -55,6 +55,14 @@ item:
     organization_url: https://www.terraform.io/
     title: Dataiku MLOps Practitioner
     url: https://verify.skilljar.com/c/sy9u2b67k893
+  - certificate_url: https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/
+    date_end: ''
+    date_start: '2024-02-03'
+    description: ''
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/
+    title: Azure Data Engineer Associate
+    url: https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/
 
 design:
   columns: '2'
