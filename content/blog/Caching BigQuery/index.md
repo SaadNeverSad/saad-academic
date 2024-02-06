@@ -39,11 +39,14 @@ categories:
 ---
 
 Greetings, fellow GCPwarriors 🛡️ ! 
+
 BigQuery offers a caching mechanism that plays a crucial role in optimizing query performance. Understanding how caching works in BigQuery and leveraging it effectively can lead to significant cost savings and improved efficiency. In this article, we'll delve into the caching mechanism in BigQuery, its limitations, and provide tips to optimize its usage.
+
 
 ## 🔦 What is Caching in BigQuery :
 
 Caching involves storing query results in temporary tables within BigQuery for faster data retrieval. This temporary storage helps optimize compute performance by reducing the need for repeated computations.
+
 
 ## 🪝 How Caching Works :
 
@@ -54,6 +57,7 @@ Caching involves storing query results in temporary tables within BigQuery for f
 - The cache key is the query itself, while the cache value is a temporary table.
 - Query comparison is performed using a simple "=", any deviation such as extra spaces results in a cache miss.
 
+
 ## 🚫 Limitations of Caching:
 
 - Query results are cached only if the subsequent query is an exact replica of the original.
@@ -62,6 +66,7 @@ Caching involves storing query results in temporary tables within BigQuery for f
 - Query results must not exceed 10 GB.
 - Queries using non-deterministic functions or are not cached.
 - No caching if you have security rules on your rows/columns.
+
 
 ## ✨ Tips for Cache Usage:
 
